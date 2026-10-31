@@ -1,0 +1,26 @@
+.navbar{
+    background-color:#ffffff;
+    display: flex;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    box-shadow: 2px 2px 5px 1px #cccccc;
+     align-self: center;
+    padding: 5px 20px;
+    color: #ff8000;
+
+}
+.nav-link-container{
+    margin-left: 100px;
+}
+.nav-link{
+    font-size: 15px;
+    text-decoration: none;
+    margin-right: 10px;
+    color: #404040;
+}
+.nav-link:hover{
+transition: 0.4s;
+border-bottom:1px solid #ff8000;
+
+}
+
