@@ -1,4 +1,7 @@
-.h-center{
+.img{
+    height: 600px;
+}
+.img-container{
     text-align: center;
 }
 
