@@ -1,0 +1,17 @@
+.footer{
+    background-color:#fff2e6;
+    border-top: 4px double #ff8000;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.footer-section{
+display: flex;
+flex-direction: column;
+}
+.footer-link{
+    font-size: 10px;
+    margin-bottom: 10px;
+}
